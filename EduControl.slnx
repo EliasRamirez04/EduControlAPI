@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EduControl.API/EduControl.API.csproj" />
+  <Project Path="EduControl.Tests/EduControl.Tests.csproj" />
+</Solution>
